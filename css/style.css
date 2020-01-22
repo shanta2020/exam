@@ -1,0 +1,154 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+section {
+	background-image: url(../img/bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	float: left;
+	padding-top: 149px;
+	padding-bottom: 100px;
+	color: #fff;
+}
+.container {
+	width: 1140px;
+	margin: 0 auto;
+}
+
+/* left div sec css start */
+.left-div {
+
+width: 46%;
+
+padding-right: 4px;
+
+float: left;
+}
+
+.left-div h1 {
+	
+padding-bottom: 22px;
+	
+font-size: 30px;
+}
+.left-div h1 span {
+	color: #6AC568;
+}
+
+.left-div p {
+	
+padding-bottom: 10px;
+	
+font-size: 18px;
+}
+.left-div form {
+
+}
+.left-div form ul {
+	
+}
+.left-div form li {
+	
+list-style: none;
+	
+padding: 6px;
+}
+.left-div form li i {
+	
+}
+.btn-one {
+
+color: #fff;
+
+background: #2196F3;
+
+border: none;
+
+padding: 12px;
+
+margin-left: 8px;
+
+border-radius: 20px;
+
+margin-top: 12px;
+}
+
+/* left div sec css end */
+
+
+/* right div sec css start */
+.right-div {
+
+width: 42%;
+
+float: left;
+
+padding-left: 4px;
+
+padding: 0px 1px 0px 19px;
+
+margin-top: -36px;
+
+margin-right: 0px;
+}
+.full-right-div {
+
+background: #2196F3;
+margin: 0 54px;
+    padding: 8px 0px 32px;
+    border-radius: 4px;
+}
+
+.full-right-div h1 {
+	
+text-align: center;
+	
+padding-top: 30px;
+	
+font-size: 37px;
+}
+
+.full-right-div p {
+	
+text-align: center;
+	
+font-size: 19px;
+	
+padding: 9px 19px 18px 19px;
+	
+
+}
+.full-right-div form {
+
+text-align: center;
+}
+
+.from-control {
+	
+width: 80%;
+	
+margin: 3px 0px 7px 0px;
+	
+padding: 10px 0px 16px 0px;
+}
+.btn-two {
+
+width: 78%;
+
+margin: 0px 0px 20px 47px;
+
+font-size: 26px;
+
+padding: 6px;
+
+color: #fff;
+
+text-align: center;
+
+background: #673BB7;
+}
+
+
+/* right div sec css end */
